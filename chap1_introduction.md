@@ -292,7 +292,7 @@ iris = sns.load_dataset("iris")
 
 ```
 
-Etdudiez la position des variables suivantes : le spécimen et la taille des pétales.
+Étudiez la position des variables suivantes : le spécimen et la taille des pétales.
 
 ## Indicateurs de dispersion
 
