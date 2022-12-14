@@ -207,7 +207,7 @@ Max : la plus valeur valeur.
 *C'est la différence entre le troisième quartile et le premier
 quartile ; il s’écrit : $II = Q_3 - Q_1$.*
 
-## 06 Exercice Quartile notes
+## 05 Exercice Quartile notes
 
 Si la valeur n'est pas entière dans le calcul on prendra la valeur supérieur (convention française). Pour le calcul de la médiane il se fait, si la série est de longueur paire, en prenant la position donnée par le calcul et en prennant la valeur qui suit et en faisant la moyenne de ces deux valeurs.
 
@@ -235,7 +235,7 @@ Ce diagramme est très utilisé **principalement** pour comparer un même caract
 
 Notez que les valeurs extèmes n'apportent en elle-même pas d'information particulière pour l'étude d'un critère donné.
 
-### 07 Exercice d'application
+### 06 Exercice d'application
 
 Utilisez seaborn. Rappelons que Seaborn est une bibliothèque pour faire des graphiques statistiques en Python. Il est construit au-dessus de matplotlib et étroitement intégré aux structures de données de Pandas.
 
