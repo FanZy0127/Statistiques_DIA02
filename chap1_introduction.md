@@ -107,7 +107,7 @@ Elle se calcule relativement par rapport à une sous population, par exemple dan
 <img src="./images/circulare_frequences.png" width="400" />
 
 
-## 03 Exercice notes en statistique
+## 03 Exercice notes en statistiques
 
 Récupérez le dataset **note_statistiques.csv** et faite un diagramme en baton des notes en statistiques.
 
