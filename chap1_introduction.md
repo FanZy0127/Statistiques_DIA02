@@ -31,7 +31,7 @@ Récupérez le dataset dans student.csv, dans le dossier data et étudiez le cri
 
 1. Créez un DataFrame avec les données dans le dossier data. Renommez les colonnes Couleur des yeux et mention au bac respectivement par eye_color et mention.
 
-2. Edutiez le critère "eye_color". Créez un nouveau DataFrame dans lequel vous calculerez les fréquences marginales.
+2. Étudiez le critère "eye_color". Créez un nouveau DataFrame dans lequel vous calculerez les fréquences marginales.
 
 - Utilisez un groupby
 
