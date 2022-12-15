@@ -104,7 +104,7 @@ Voici un tableau qui vous aidera dans l'interprétation des valeurs de ce cœffi
 | -1.0             |   Parfaite corrélation <0|
 | 0.25             |   Faible corrélation >0  |
 | 0.75             |   Forte corrélation >0   |
-| 1.0              |   Parfaite corrélation <0|
+| 1.0              |   Parfaite corrélation >0|
 
 ### 02 Exercice fonction de corrélation
 
