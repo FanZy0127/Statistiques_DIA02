@@ -238,7 +238,7 @@ Le paramètre fmt indique la taille de la typo dans les cellules du heatmap.
 ![heatmap](images/heatmap_01.png)
 
 
-### 05 Exercice mpg 
+### 04 Exercice mpg 
 
 Importez les données mpg de searborn dans votre Notebook
 
@@ -252,7 +252,7 @@ Nous aimerions avoir un heatmap de la forme suivante :
 
 - 3. Représentez le diagramme des corrélations du dataset mpg
 
-### 06 Exercice interprétation
+### 05 Exercice interprétation
 
 Comment interprétez-vous le graphique suivant où on met en évidence les coefficients de corrélation pour les V.A. passanger et year ?
 
