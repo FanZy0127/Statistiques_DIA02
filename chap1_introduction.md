@@ -314,7 +314,7 @@ Quand la série prend les valeurs $x_1, x_2, ..., x_k$ avec les fréquences $f_1
 
 $Var(X)=\sum_{i=1}^{k}f_i \times(X_i - \bar{X})^2$
 
-## 08 Exercice calcul de la variance
+## 07 Exercice calcul de la variance
 
 1. Soit la série statistique suivante :
 
@@ -351,7 +351,7 @@ Ecrire un script en Python qui permet de calculer la variance de cette série. P
 
 Le tracé de violon présente une estimation de la densité du noyau de la distribution sous-jacente.
 
-### 09 Exercice Titanic
+### 08 Exercice Titanic
 
 Récupérez le dataset du Titanic :
 
