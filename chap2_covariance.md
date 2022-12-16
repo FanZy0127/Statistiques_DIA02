@@ -298,7 +298,7 @@ Importez le dataset diamonds de seaborn
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-diamonds = sns.load_data('diamonds')
+diamonds = sns.load_dataset('diamonds')
 
 diamonds.head()
 ```
@@ -318,6 +318,7 @@ def fit_line(x, y):
     model = sm.OLS(y, X, missing='drop') # ignoré les NaN
     fit = model.fit()
 
+    print(fit.summary())
     return fit.params[1], fit.params[0] 
 ```
 
