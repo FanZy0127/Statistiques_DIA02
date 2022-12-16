@@ -43,7 +43,7 @@ On a donc :
 
 <img src="./images/02_formule_binome.png" width="500" />
 
-Pour obtenir la probabilité recherché on appliquera la formule générale suivante :
+Pour obtenir la probabilité recherchée on appliquera la formule générale suivante :
 
 <img src="./images/03_formule_binome.png" width="200" />
 
